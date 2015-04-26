@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MyNotes</string>
+
+    <string name="hello_world">Hello world! How\'s Life???</string>
+    <string name="action_settings">Settings</string>
+</resources>
